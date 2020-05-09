@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PrecipitationStudyInSubSaharanAfrica</string>
+    <string name="welcome">
+        <b>Welcometo the \n
+        Prototype App for \n
+        Fundamental\n
+        Precipitation Studies in \n
+        Sub-Saharan Africa!!</b>
+    </string>
+    <string name="description">1.\t\tProvides historical precipitation \n\n
+        2.\t\tOf the selected specific date \n\t\t\t and place in Sub-Saharan Africa \n\n
+        3.\t\tAnalytics of annual precipitation \n\n
+        4.\t\tHelpful for study purpose
+    </string>
+</resources>
